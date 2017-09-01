@@ -16,121 +16,121 @@
       "labelCode": "WF_ACCOMMODATION",
       "captionES_MX": "Hospedaje",
       "captionEN_US": "Accommodation",
-      "captionPT_BR": ""
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_AGENCY_PAYS_SOCIETY",
-      "captionES_MX": "Agenciapagaasociedad",
-      "captionEN_US": "Agencypaystosociety",
-      "captionPT_BR": ""
+      "captionES_MX": "Agencia paga a sociedad",
+      "captionEN_US": "Agency pays to society",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_APPROVAL_LOG",
-      "captionES_MX": "Bitacoradeaprobaciones",
-      "captionEN_US": "Approvalslog",
-      "captionPT_BR": ""
+      "captionES_MX": "Bitacora de aprobaciones",
+      "captionEN_US": "Approvals log",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_CATEGORY_FCPA",
-      "captionES_MX": "CategoríaFCPA",
-      "captionEN_US": "FCPAcategory",
-      "captionPT_BR": "CategoriadoFCPA"
+      "captionES_MX": "Categoría FCPA",
+      "captionEN_US": "FCPA category",
+      "captionPT_BR": "Categoria do FCPA"
     },
     {
       "labelCode": "WF_CONTACT_CITY",
-      "captionES_MX": "Ciudadorigen",
+      "captionES_MX": "Ciudad origen",
       "captionEN_US": "City",
-      "captionPT_BR": "Ciudadenatal"
+      "captionPT_BR": "Ciudade natal"
     },
     {
       "labelCode": "WF_CRITERIAS",
-      "captionES_MX": "CriteriosdeParticipación",
-      "captionEN_US": "Participationcriteria",
-      "captionPT_BR": "CritériosdeParticipação"
+      "captionES_MX": "Criterios de Participación",
+      "captionEN_US": "Participation criteria",
+      "captionPT_BR": "Critérios de Participação"
     },
     {
       "labelCode": "WF_EVENT_ID",
-      "captionES_MX": "Idevento",
-      "captionEN_US": "EventId",
-      "captionPT_BR": ""
+      "captionES_MX": "Id evento",
+      "captionEN_US": "Event Id",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_EVENT_NAME",
-      "captionES_MX": "Nombredelevento",
-      "captionEN_US": "Eventname",
-      "captionPT_BR": ""
+      "captionES_MX": "Nombre del evento",
+      "captionEN_US": "Event name",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_EVENT_TYPE",
-      "captionES_MX": "Tipodeevento",
-      "captionEN_US": "Eventtype",
-      "captionPT_BR": ""
+      "captionES_MX": "Tipo de evento",
+      "captionEN_US": "Event type",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_END_DATE",
-      "captionES_MX": "Fechafin",
-      "captionEN_US": "Enddate",
-      "captionPT_BR": ""
+      "captionES_MX": "Fecha fin",
+      "captionEN_US": "End date",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_EVENT_OBJECTIVE",
-      "captionES_MX": "Objetivodelevento",
+      "captionES_MX": "Objetivo del evento",
       "captionEN_US": "Objective",
-      "captionPT_BR": ""
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_EVENT_MARKETING_PLAN",
-      "captionES_MX": "Eleventoestaorganizadodentrodelmarketingplan",
-      "captionEN_US": "Organizedinmarketingplan",
-      "captionPT_BR": ""
+      "captionES_MX": "El evento esta organizado dentro del marketing plan",
+      "captionEN_US": "Organized in marketing plan",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_GENERAL_DATA",
-      "captionES_MX": "Datosgenerales",
-      "captionEN_US": "Generalinformation",
-      "captionPT_BR": "Dadosgerais"
+      "captionES_MX": "Datos generales",
+      "captionEN_US": "General information",
+      "captionPT_BR": "Dados gerais"
     },
     {
       "labelCode": "WF_GUEST_NAME",
-      "captionES_MX": "Nombreinvitado",
-      "captionEN_US": "Guestname",
-      "captionPT_BR": ""
+      "captionES_MX": "Nombre invitado",
+      "captionEN_US": "Guest name",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_INVITED_BY",
-      "captionES_MX": "Creadopor",
-      "captionEN_US": "Createdby",
-      "captionPT_BR": "Convidadopor:"
+      "captionES_MX": "Creado por",
+      "captionEN_US": "Created by",
+      "captionPT_BR": "Convidado por:"
     },
     {
       "labelCode": "WF_MODE",
       "captionES_MX": "Modalidad",
       "captionEN_US": "Mode",
-      "captionPT_BR": ""
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_MSD_PARTICIPATION",
-      "captionES_MX": "DescripciondeparticipaciondeMSD",
-      "captionEN_US": "MSDparticipationdescription",
-      "captionPT_BR": ""
+      "captionES_MX": "Descripcion de participacion de MSD",
+      "captionEN_US": "MSD participation description",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_MSD_PARTICIPATION_JUSTIFICATION",
-      "captionES_MX": "JustificaciondeparticipaciondeMSD",
-      "captionEN_US": "MSDparticipationmotive",
-      "captionPT_BR": ""
+      "captionES_MX": "Justificacion de participacion de MSD",
+      "captionEN_US": "MSD participation motive",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_MEDIC_SPECIALTIES",
-      "captionES_MX": "Especialidadesmedicas",
+      "captionES_MX": "Especialidades medicas",
       "captionEN_US": "Specialties",
-      "captionPT_BR": ""
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_MSD_PAYS_SOCIETY",
-      "captionES_MX": "MSDpagaasociedaddirectamente",
-      "captionEN_US": "MSDpaystosociety",
-      "captionPT_BR": ""
+      "captionES_MX": "MSD paga a sociedad directamente",
+      "captionEN_US": "MSD pays to society",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_NO",
@@ -140,99 +140,45 @@
     },
     {
       "labelCode": "WF_NO_PAYMENT",
-      "captionES_MX": "Sinpago",
-      "captionEN_US": "Withoutpayment",
-      "captionPT_BR": ""
+      "captionES_MX": "Sin pago",
+      "captionEN_US": "Without payment",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_NUM_REGISTRATIONS",
-      "captionES_MX": "Numerodeinscripciones",
+      "captionES_MX": "Numero de inscripciones",
       "captionEN_US": "Registrations",
-      "captionPT_BR": ""
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_RELATED_PRODUCTS",
-      "captionES_MX": "Productosrelacionados",
-      "captionEN_US": "Relatedproducts",
-      "captionPT_BR": ""
+      "captionES_MX": "Productos relacionados",
+      "captionEN_US": "Related products",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_PARTICIPATION_PERCENTAGE",
-      "captionES_MX": "%departicipacion",
-      "captionEN_US": "Participation%",
-      "captionPT_BR": ""
+      "captionES_MX": "% de participacion",
+      "captionEN_US": "Participation %",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_ORGANIZED_BY",
-      "captionES_MX": "Organizadopor",
-      "captionEN_US": "Organizedby",
-      "captionPT_BR": ""
+      "captionES_MX": "Organizado por",
+      "captionEN_US": "Organized by",
+      "captionPT_BR": " "
     },
     {
       "labelCode": "WF_OBSERVATIONS",
-      "captionES_MX": "ObservacionesalaAgencia",
-      "captionEN_US": "Observationstotheagency",
-      "captionPT_BR": "ObservaçãodaAgencia"
+      "captionES_MX": "Observaciones a la Agencia",
+      "captionEN_US": "Observations to the agency",
+      "captionPT_BR": "Observação da Agencia"
     },
     {
       "labelCode": "WF_PREFERENCES",
       "captionES_MX": "Preferencias",
       "captionEN_US": "Prefferences",
       "captionPT_BR": "Preferencias"
-    },
-    {
-      "labelCode": "WF_REASONS",
-      "captionES_MX": "MotivodeParticipación",
-      "captionEN_US": "Participationmotive",
-      "captionPT_BR": "MotivodaParticipação"
-    },
-    {
-      "labelCode": "WF_STATE",
-      "captionES_MX": "Estado",
-      "captionEN_US": "State",
-      "captionPT_BR": ""
-    },
-    {
-      "labelCode": "WF_SERVICES",
-      "captionES_MX": "ServiciosEspecíficos",
-      "captionEN_US": "Specificservices",
-      "captionPT_BR": "Serviçosespecificos"
-    },
-    {
-      "labelCode": "WF_SEDE",
-      "captionES_MX": "Sede",
-      "captionEN_US": "Venue",
-      "captionPT_BR": "Local"
-    },
-    {
-      "labelCode": "WF_START_DATE",
-      "captionES_MX": "Fechadeinicio",
-      "captionEN_US": "Startdate",
-      "captionPT_BR": ""
-    },
-    {
-      "labelCode": "WF_SOCIETY_PAYMENT",
-      "captionES_MX": "Pagoasociedad",
-      "captionEN_US": "Societypayment",
-      "captionPT_BR": ""
-    },
-    {
-      "labelCode": "WF_TO_COORDINATOR_COMMENTS",
-      "captionES_MX": "Comentariosalacoordinacion",
-      "captionEN_US": "Commentstocoordination",
-      "captionPT_BR": ""
-    },
-    {
-      "labelCode": "WF_WEB_PAGE",
-      "captionES_MX": "Paginaweb",
-      "captionEN_US": "Webpage",
-      "captionPT_BR": ""
-    },
-    {
-      "labelCode": "WF_YES",
-      "captionES_MX": "SI",
-      "captionEN_US": "Yes",
-      "captionPT_BR": "Sim"
     }
   ],
   "error": null
